@@ -9,7 +9,7 @@ Directory tree:
     └───src
         └───components
 ```
-This project solution considers the dedicated docker containers for frontend, backend and mongodb database. Complete solution can be started with the docker-compose.
+This project solution considers the dedicated docker containers for frontend, backend and mongodb database. Complete solution can be started with the docker-compose. See the steps below:
 
 1. Clone this repo.
 2. Open this project home directory.
